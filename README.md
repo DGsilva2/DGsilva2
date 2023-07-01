@@ -13,12 +13,11 @@ OII, PRAZER SOU DOUGLAS SILVA 👋
 <div>
   <img align="center" alt="DG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-    
    original.svg">
-</div>
-<div>
+
   <img align="center" alt="DG-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-      
    wordmark.svg" />
-</div>
-<div>
+
+
   <img align="center" alt="DG-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-              original.svg" />
  </div>
  <a href="https://instagram.com/douglas_silva602" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/douglas-silva-273a631a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://twitter.com/in/https://twitter.com/in/@Douglas0330" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
